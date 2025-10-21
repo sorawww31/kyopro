@@ -1,3 +1,7 @@
 {
-    "editor.inlineSuggest.enabled": false
+    "editor.inlineSuggest.enabled": false,
+    "files.associations": {
+        "*.ipynb": "python",
+        "iostream": "cpp"
+    }
 }
